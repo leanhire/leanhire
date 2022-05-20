@@ -1,0 +1,12 @@
+{
+    "redirects": [
+      { 
+        "source": "/:path*",
+        "destination": "https://join.slack.com/t/leanhire/shared_invite/zt-f3o5yss7-gupYW32FfWfvSRXHWxd0Bw"
+      },
+      { 
+        "source": "/",
+        "destination": "https://join.slack.com/t/leanhire/shared_invite/zt-f3o5yss7-gupYW32FfWfvSRXHWxd0Bw"
+      }
+    ]
+  }
